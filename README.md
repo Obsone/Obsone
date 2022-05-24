@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Job De Chavez
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Databases
 - 💞️ Looking forward to collaborate soon! 
 - 📫 How to reach me ...
 
